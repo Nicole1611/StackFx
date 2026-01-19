@@ -1,0 +1,6 @@
+com\mycompany\stackfx\view\StackCanvas.class
+com\mycompany\stackfx\model\Stack.class
+module-info.class
+com\mycompany\stackfx\controller\StackController.class
+com\mycompany\stackfx\App.class
+com\mycompany\stackfx\model\Node.class
